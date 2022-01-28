@@ -1,0 +1,11 @@
+stage/
+*.bz2
+libbacktrace/.libs/
+libbacktrace/Makefile
+libbacktrace/backtrace-supported.h
+libbacktrace/config.h
+libbacktrace/config.log
+libbacktrace/config.status
+libbacktrace/install-debuginfo-for-buildid.sh
+libbacktrace/libtool
+libbacktrace/stamp-h1
