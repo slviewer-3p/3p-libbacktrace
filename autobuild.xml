@@ -3,8 +3,8 @@
 <map>
     <key>package_description</key>
     <map>
-       <key>canonical_repo</key>
-      <string>https://bitbucket.org/nickyd/3p-libbacktrace</string>     
+      <key>canonical_repo</key>
+      <string>https://github.com/slviewer-3p/3p-libbacktrace</string>
       <key>copyright</key>
       <string>Copyright (C) 2012-2016 Free Software Foundation, Inc.</string>
       <key>description</key>
